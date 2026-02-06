@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jayshree Gaikawad
 
 🎯 Full Stack Web Developer  
-🔧 Node.js | Express | MongoDB | Learning React.js  
+🔧 Node.js | Express | MongoDB | React.js  
 🌱 Currently building real-world web apps & APIs
 
 ---
@@ -13,8 +13,7 @@
 ---
 
 ## 💻 Tech Stack
-HTML • CSS • JavaScript • Node.js • Express • MongoDB  
-Learning → React.js
+HTML • CSS • JavaScript • Node.js • Express • MongoDB • React.js
 
 ---
 
