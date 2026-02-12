@@ -14,7 +14,7 @@
 ---
 
 ## 💻 Tech Stack
-HTML • CSS • JavaScript • Node.js • Express • MongoDB • React.js
+HTML • CSS • JavaScript • Node.js • Express • MongoDB • React.js • Tailwind CSS • Rest • SQL • EJS
 
 ---
 
