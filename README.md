@@ -7,7 +7,8 @@
 ---
 
 ## 📌 Projects
-- **Wanderlust** – Travel app backend with Node & MongoDB  
+- **Wanderlust** – Travel app backend with Node & MongoDB
+- **A Zoom-like video conferencing backend built using Node.js, Express, Socket.io and MongoDB with real-time communication features.
 - **Blog API** – RESTful service built using Express
 
 ---
