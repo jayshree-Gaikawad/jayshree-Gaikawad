@@ -12,7 +12,7 @@ Node.js • Express.js • REST APIs •  EJS • JWT Authentication • OAuth
 MongoDB • Mongoose • MySQL
 Git • GitHub • VS Code • Postman • npm
 
-### 📚 Currently Learning
+# Currently Learning
 Data Structures & Algorithms (Java) • Building Scalable MERN Applications
 
 
