@@ -4,6 +4,7 @@
 Passionate about building scalable web applications using the MERN Stack. I enjoy creating clean user interfaces, developing REST APIs, and continuously improving my problem-solving skills through DSA and real-world projects.
 
 🚀 Open to Software Engineer | Full Stack Developer | Frontend Developer opportunities.
+
 ---
 ### 💻 Tech Stack
 JavaScript • Java • C++
@@ -14,6 +15,7 @@ Git • GitHub • VS Code • Postman • npm
 
 #### Currently Learning
 Data Structures & Algorithms (Java) • Building Scalable MERN Applications
+
 ---
 ### 📌 Featured Projects
 
