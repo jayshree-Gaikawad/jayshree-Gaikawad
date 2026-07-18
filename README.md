@@ -4,7 +4,7 @@
 Passionate about building scalable web applications using the MERN Stack. I enjoy creating clean user interfaces, developing REST APIs, and continuously improving my problem-solving skills through DSA and real-world projects.
 
 🚀 Open to Software Engineer | Full Stack Developer | Frontend Developer opportunities.
-
+---
 ### 💻 Tech Stack
 JavaScript • Java • C++
 React.js • HTML • CSS • Bootstrap • Tailwind CSS • Responsive UI 
@@ -14,8 +14,7 @@ Git • GitHub • VS Code • Postman • npm
 
 #### Currently Learning
 Data Structures & Algorithms (Java) • Building Scalable MERN Applications
-
-
+---
 ### 📌 Featured Projects
 
 #### 🤖 AI-Powered Task Management Platform
@@ -36,7 +35,7 @@ A real-time video conferencing application built using Node.js, Express.js, Sock
 #### 🎵 Spotify Clone
 Designed a responsive Spotify-inspired user interface using HTML5 and CSS3.
 
-
+---
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayshree-Gaikawad&show_icons=true&theme=default)
