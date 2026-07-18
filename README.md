@@ -16,6 +16,7 @@ Git • GitHub • VS Code • Postman • npm
 Data Structures & Algorithms (Java) • Building Scalable MERN Applications
 
 
+
 ## 📌 Featured Projects
 
 ### 🤖 AI-Powered Task Management Platform
@@ -35,7 +36,7 @@ A full-stack travel listing application built with Node.js, Express.js, MongoDB,
 
 ### 🎥 Zoom Clone
 A real-time video conferencing application built using Node.js, Express.js, Socket.io, and MongoDB with live communication features.
----
+
 
 
 ## 📈 GitHub Stats
