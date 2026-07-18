@@ -15,27 +15,27 @@ Git • GitHub • VS Code • Postman • npm
 #### Currently Learning
 Data Structures & Algorithms (Java) • Building Scalable MERN Applications
 
-<br>
+<br><br><br>
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-#### 🤖 AI-Powered Task Management Platform
+##### 🤖 AI-Powered Task Management Platform
 A full-stack MERN application with JWT Authentication and AI-powered task categorization using the OpenAI API. Features a responsive Kanban board for efficient task management.
 
-#### 📊 E-Commerce Analytics Dashboard
+##### 📊 E-Commerce Analytics Dashboard
 Built a full-stack analytics dashboard using React.js, Node.js, Express.js, and MongoDB with interactive Chart.js visualizations and secure REST APIs.
 
-#### 💻 Collaborative Code Review Platform
+##### 💻 Collaborative Code Review Platform
 Developed a real-time collaborative code editor using React.js, Node.js, Express.js, Socket.io, and MongoDB with AI-powered code suggestions and secure authentication.
 
-#### 🎵 Spotify Clone
-Designed a responsive Spotify-inspired user interface using HTML5 and CSS3.
-
-#### ✈️ Wanderlust
+##### ✈️ Wanderlust
 A full-stack travel listing application built with Node.js, Express.js, MongoDB, authentication, and CRUD functionality.
 
-#### 🎥 Zoom Clone
+##### 🎥 Zoom Clone
 A real-time video conferencing application built using Node.js, Express.js, Socket.io, and MongoDB with live communication features.
+
+##### 🎵 Spotify Clone
+Designed a responsive Spotify-inspired user interface using HTML5 and CSS3.
 
 
 
