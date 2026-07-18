@@ -15,7 +15,7 @@ Git • GitHub • VS Code • Postman • npm
 #### Currently Learning
 Data Structures & Algorithms (Java) • Building Scalable MERN Applications
 
-<br><br>
+<br>
 
 ### 📌 Featured Projects
 
